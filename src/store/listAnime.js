@@ -537,5 +537,11 @@ export default [
     animeName: 'Mugen no Juunin: Immortal',
     animeYear: 2019,
     animeLink: 'https://myanimelist.net/anime/39806/Mugen_no_Juunin__Immortal'
+  },
+  {
+    animeEmoji: '🙏⚡️🔥🌔',
+    animeName: 'Fullmetal Alchemist Brotherhood',
+    animeYear: 2009,
+    animeLink: 'https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood'
   }
 ];
